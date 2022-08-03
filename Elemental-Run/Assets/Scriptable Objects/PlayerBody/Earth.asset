@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e8af6ddfec4a23b26c7921dc41a874, type: 3}
+  m_Name: Earth
+  m_EditorClassIdentifier: 
+  elementName: 1
+  bodyTexture: {fileID: 2800000, guid: 2a7d4c7db6da6684bb1c82b32e7e1210, type: 3}
